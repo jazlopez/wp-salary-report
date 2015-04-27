@@ -11,10 +11,9 @@ use WP_Compensation\Benchmark;
  * Plugin Name: Benchmark your compensation
  * Description: Benchmark your annual revenue by industry type, employee role, industry size
  * Version: 1.0
- * Author: Jaziel Lopez, Arte Digital, MX
+ * Author: Jaziel Lopez,MX
  * @version 1.0
  * @author Jaziel Lopez
- * @author Arte Digital,MX
  */
 
 $benchmark = new Benchmark();
